@@ -1,7 +1,7 @@
 ---
-title: "Creating a Bot Flow"
+title: "Utterances"
 chapter: false
-weight: 10
+weight: 40
 ---
 
 
@@ -11,6 +11,6 @@ weight: 10
 
 ![Utterances1](/images/Utterances1.PNG)
 
-![ApplyChanges](/images/Apply Change.PNG)
+![ApplyChanges](/images/ApplyChange.PNG)
 
 

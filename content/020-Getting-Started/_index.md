@@ -8,6 +8,7 @@ weight: 20
 
 Here is some terminology that will be discussed througout the workshop. 
 
+
 ![BotVocab](/images/Botvcb.PNG)
 
 # Natural Language Understanding
@@ -15,5 +16,5 @@ Here is some terminology that will be discussed througout the workshop.
 ![NLU](/images/Dialogbotpic.PNG)
 
 
-![VocabDiagrahm(/images/BotVocabDiagrahm.PNG)
+![VocabDiagrahm](/images/BotVocabDiagrahm.png)
 

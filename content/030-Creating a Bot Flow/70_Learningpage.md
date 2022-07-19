@@ -1,7 +1,10 @@
 ---
-title: "Creating a Bot Flow"
+title: "Learning Page"
 chapter: false
-weight: 10
+weight: 70
 ---
 
 
+![Learning](/images/Learning.PNG)
+
+![Learning2](/images/Learning2.PNG)
