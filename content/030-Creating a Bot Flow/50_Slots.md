@@ -5,3 +5,4 @@ weight: 10
 ---
 
 
+![addingslot](\addingSlotIntnt.mov)
