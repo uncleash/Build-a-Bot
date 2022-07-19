@@ -5,4 +5,4 @@ weight: 10
 ---
 
 
-![addingslot](\addingSlotIntnt.mov)
+![addingslot](/videos/addingSlotIntnt.mov)
