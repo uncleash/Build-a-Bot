@@ -1,5 +1,5 @@
 ---
 title: "Bot Deployment"
 chapter: true
-weight: 40
+weight: 50
 ---
