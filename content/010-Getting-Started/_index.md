@@ -4,6 +4,8 @@ chapter: true
 weight: 10
 ---
 
+![Header](/images/GettingStarted.jpg)
+
 ## Objective
 By the end of this section you will understand key bot concepts, including terminology that is specific to Dialog Engine Bot Flows. A bot is a conversational method of communicating with customers. Bots are powered by natural language processing (NLU) and artificial intelligence (AI). You can build bots in Architect and then integrate them into Architect inbound call, chat, or message flows. 
 
