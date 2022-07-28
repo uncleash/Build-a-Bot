@@ -4,8 +4,8 @@ chapter: true
 weight: 50
 ---
 
-
-![addingslot](/videos/addingSlotIntnt.mov)
+Heres a video to show how to add slots
+{{< vimeo 734137295 >}}
 
 
 ![AddTransferIntent](/images/addingslotIntnt.PNG)
