@@ -4,6 +4,7 @@ chapter: true
 weight: 1
 ---
 
+![Header](/images/MainTitle.jpg)
 
 ## Welcome
 

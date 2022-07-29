@@ -4,6 +4,7 @@ chapter: true
 weight: 70
 ---
 
+![Header](/images/Learning.jpg)
 
 ![Learning](/images/Learning.PNG)
 

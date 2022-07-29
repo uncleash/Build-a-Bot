@@ -4,6 +4,8 @@ chapter: true
 weight: 10
 ---
 
+![Header](/images/AddingFlow.jpg)
+
 ## Adding a New Chat Flow
 
 ![ChatFlow](/images/ChatFlow.jpg)

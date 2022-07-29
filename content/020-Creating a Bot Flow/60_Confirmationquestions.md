@@ -4,6 +4,7 @@ chapter: true
 weight: 60
 ---
 
+![Header](/images/Questions.jpg)
 
 ![ConfirmationQuestions](/images/ConfirmationQuestions.PNG)
 

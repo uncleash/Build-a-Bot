@@ -4,7 +4,7 @@ chapter: true
 weight: 10
 ---
 
-
+![Header](/images/FlowStructure.jpg)
 
 ![StructureBot](/images/structurebot1.PNG) 
 

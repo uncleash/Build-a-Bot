@@ -4,6 +4,7 @@ chapter: true
 weight: 40
 ---
 
+![Header](/images/Utterances.jpg)
 
 Utterances are phrases that a user would use to describe what they want to do. The bot tries to understand and identify the user’s intent from these utterances. <br>
 
