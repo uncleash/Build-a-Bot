@@ -3,6 +3,9 @@ title: "Best Practices for Model Building"
 chapter: true
 weight: 80
 ---
+
+![Header](/images/BestPractices.jpg)
+
 ## Defining Intents
 A model is more than intents, it is also a flow and a journey. 
 Defining intents:

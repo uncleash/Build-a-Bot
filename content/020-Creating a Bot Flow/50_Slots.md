@@ -4,6 +4,7 @@ chapter: true
 weight: 50
 ---
 
+![Header](/images/Slots.jpg)
 
 ![addingslot](/videos/addingSlotIntnt.mov)
 

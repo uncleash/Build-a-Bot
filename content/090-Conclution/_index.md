@@ -4,6 +4,8 @@ chapter: true
 weight: 90
 ---
 
+![Header](/images/Conclusion.jpg)
+
 ## Finished!
 
 Congratulations! You've reached the end of today's workshop. You now have an operational bot and are ready to take voice and chat interactions using your bot. We hope this was an informative journey, and that you are now confident in your interaction fielding abilities.  

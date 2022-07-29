@@ -4,6 +4,7 @@ chapter: true
 weight: 20
 ---
 
+![Header](/images/Intents.jpg)
 
 **Intents** describe a goal or task that a user wants to do, such as checking their balance or sending a payment. A user will interact with a bot to resolve their intent. The dialog model you build must identify a user’s intent accurately based on their input.
 

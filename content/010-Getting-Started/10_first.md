@@ -3,6 +3,9 @@ title: "Bot Vocab"
 chapter: true
 weight: 10
 ---
+
+![Header](/images/BotVocab.jpg)
+
 ## Bot Concepts
 
 
