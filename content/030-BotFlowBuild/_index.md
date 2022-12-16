@@ -12,4 +12,4 @@ En esta sección, usaremos el modelo NLU que hemos creado para construir un Fluj
 
 También construiremos Gestión de eventos dentro del bot. Es importante saber manejar lo inesperado, como errores o fallas de reconocimiento. Podemos crear eventos para gestionar esto, junto con la escalada del agente cuando sea necesario.
 
-![Header](/images/AI.jpg)
+![Header](/images/Genesys2.jpg)

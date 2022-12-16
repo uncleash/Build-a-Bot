@@ -12,5 +12,5 @@ En esta sección, agregaremos el flujo de bot integrado a una interacción entra
 
 Podrá probar su bot, su precisión de salida y cómo escalar a un agente en vivo cuando sea necesario. Es importante probar el alcance completo de las capacidades del bot y asegurarse de que esté actuando como se espera antes de publicarlo.
 
-![Header](/images/Robot.jpg)
+![Header](/images/Genesys1.jpg)
 
