@@ -1,13 +1,13 @@
 ---
-title: "Creación de un flujo de Bot"
+title: "Creating a Bot Flow"
 chapter: true
 weight: 20
 ---
 
 ![Header](/images/CreatingFlow.jpg)
 
-## Objetivo
+## Objective
 
-Al final de esta sección, debe comprender cómo configurar la comprensión del lenguaje natural. Creará un nuevo flujo de bot en Genesys Architect utilizando una plantilla de bot bancario y configurará intenciones, tipos de ranuras, ranuras, umbrales de confirmación y preguntas. Finalmente, probará su modelo NLU para asegurarse de que su bot se ejecute correctamente.
+By the end of this section, you should understand how to configure Natural Language Understanding. You will create a new Bot Flow in Genesys Architect using a Banking Bot template and configure Intents, Slot Types, Slots, Confirmation thresholds, and Questions. Finally, you will test your NLU model to ensure your bot is running successfully.
 
-![Robots](/images/GenesysTitle.jpg)
+![Robots](/images/walle.jpg)

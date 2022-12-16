@@ -1,5 +1,5 @@
 ---
-title: "Slots"
+title: "Ranuras"
 chapter: true
 weight: 50
 ---
@@ -8,7 +8,7 @@ weight: 50
 
 
 
-Heres a video to show how to add slots to your bot flow.
+Aquí hay un video para mostrar cómo agregar ranuras a su flujo de bot.
 {{< vimeo 734137295 >}}
 
 ![AddTransferIntent](/images/addingslotIntnt.PNG)

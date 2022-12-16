@@ -1,12 +1,12 @@
 ---
-title: "Adding A Flow"
+title: "Agregar un flujo"
 chapter: true
 weight: 10
 ---
 
 ![Header](/images/AddingFlow.jpg)
 
-## Adding a New Chat Flow
+## Agregar un nuevo flujo de chat - Chat Flow
 
 ![ChatFlow](/images/ChatFlow.jpg)
 

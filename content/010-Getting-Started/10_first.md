@@ -6,32 +6,28 @@ weight: 10
 
 ![Header](/images/BotVocab.jpg)
 
-## Conceptos de Bots
+## Bot Concepts
 
 
-**Bot**- Una aplicación de software utilizada para llevar a cabo una conversación en línea a través de texto o texto a voz, en lugar de proporcionar contacto directo con un agente humano en vivo.
+**Bot**- A software application used to conduct an on-line conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent
 
+**Dialog Engine Bot Flows**- Genesys Dialog Engine Bot Flows allow a user to create bots that will be able to understand and respond to information that customers provide. It allows you to build flows that use natural language understanding (NLU) to process the meaning of text or speech input from a human and communicate information back to them. It can then carry out the actions for the user and get them to the right outcome, whether that be full self service or assisted help with an agent.
 
-**Dialog Engine Bot Flows**- Genesys Dialog Engine Bot Flows permite a un usuario crear bots que podrán comprender y responder a la información que proporcionan los clientes. Le permite crear flujos que utilizan la comprensión del lenguaje natural (NLU) para procesar el significado del texto o la entrada de voz de un ser humano y comunicarle información. Luego puede llevar a cabo las acciones para el usuario y obtener el resultado correcto, ya sea un autoservicio completo o ayuda asistida con un agente.
+**NLU**- Natural language understanding (NLU) is a branch of artificial intelligence that uses computer software to understand input made in the form of sentences in text or speech format
 
+## Natural Language Understanding Concepts
 
-**NLU**- La comprensión del lenguaje natural (NLU, por sus siglas en inglés) es una rama de la inteligencia artificial que utiliza software de computadora para comprender las entradas realizadas en forma de oraciones en formato de texto o de voz.
+The NLU uses the following key terms in the software and throughout this document:
 
-## Conceptos de comprensión del lenguaje natural - Natural Language Understanding 
+**Intents** - The intention of the user. What is the user trying to do?
 
-La NLU utiliza los siguientes términos clave en el software y en todo este documento:
+**Utterances**- The text used by the user to describe their Intent
 
-**Intents - Intenciones** - La intención del usuario. ¿Qué está tratando de hacer el usuario?
+**Slots** - A Slot is a specific piece of information that can be derived from an utterance and is used to fulfil the user's intent
 
+**Slot Types**- The slot type defines the type of information that the bot should look for as the slot within an utterance
 
-**Utterances - Expresiones**- El texto utilizado por el usuario para describir su intención.
-
-**Slots - Ranuras** - Un slot es una pieza específica de información que se puede derivar de un enunciado y se usa para cumplir con la intención del usuario.
-
-**Slot Types - Tipos de Ranura**- El tipo de ranura define el tipo de información que el bot debe buscar como la ranura dentro de una expresión
-
-Consulte el diagrama a continuación para comprender cómo se relacionan los conceptos
-
+Please see diagram below to understand how concepts relate
 
 
 ![VocabDiagram](/images/diagram.png)

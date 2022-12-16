@@ -1,26 +1,27 @@
 ---
-title: "Mejores prácticas para la construcción de modelos"
+title: "Best Practices for Model Building"
 chapter: true
 weight: 80
 ---
 
 ![Header](/images/BestPractices.jpg)
 
-## Definición de Intenciones
-Un modelo es más que intenciones, también es un flujo y un viaje.
-Definición de intenciones:
-* Examine primero el flujo comercial (independientemente de si el bot puede hacer algo o no) antes de definir las intenciones y las ranuras
-* Defina las intenciones, definiciones: estas deben estar basadas en los objetivos comerciales. ¿Qué hacen ya aquí? (es decir) presione 1 para ventas, presione 2 para soporte, etc.
-* Asegúrese de que sus definiciones tengan límites claros, sin superposición
-## Ejemplos de intención
+## Defining Intents
+A model is more than intents, it is also a flow and a journey. 
+Defining intents:
+* Examine the business flow first (Regardless of whether the bot can do something or not) before defining the intents and slots
+* Define the intents, definitions - these need to be rooted in the business goals. What do they already do here. (i.e.) press 1 for sales, press 2 for support etc etc
+* Make sure your definitions have clear boundaries, with no overlap
+## Intent Examples
 
-* Proporcione al menos 20-30 ejemplos típicos por intención
-* Asegúrese de proporcionar variaciones:
-     * en forma de preguntas/declaraciones que las personas pueden hacer
-     * en las palabras clave que pueden representar la intención
-     * asegúrese de incluir sinónimos de intención (reservar un hotel, reservar una habitación, hacer una reserva, etc.)
-* Si la intención tiene ranuras (entidades) para llenar,
-     * asegúrese de definir la entidad y sus posibles valores
-     * incluir sinónimos de valor
-     * proporcionar ejemplos de intención con y sin entidades en las oraciones
-     * seleccione avisos (prompts) predeterminados o personalizados para cada entidad
+* Provide at least 20-30 typical examples per intent
+* Make sure to provide variations:
+    * in the form of questions / statements people can make
+    * in the keywords that can represent the intent
+    * make sure to include synonyms to intent (book a hotel, reserve a room, make a reservation, etc.)
+* If intent has slots (entities) to fill,
+    * make sure to define the entity and its possible values
+    * include value synonyms
+    * provide intent examples with and without entities in the sentences
+    * select default or custom prompts for each entity
+

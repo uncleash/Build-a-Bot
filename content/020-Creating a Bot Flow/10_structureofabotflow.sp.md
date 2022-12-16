@@ -1,5 +1,5 @@
 ---
-title: "Structure of a Bot Flow"
+title: "Estructura de un flujo de Bot"
 chapter: true
 weight: 10
 ---
@@ -8,14 +8,14 @@ weight: 10
 
 ![StructureBot](/images/structurebot1.PNG) 
 
-## Create a New Bot Flow
+## Crear un nuevo flujo de Bot
 
 ![CreateBot](/images/Createbotflow1.PNG)
 
-## Initial Building Screen
+## Pantalla de construcción inicial
 
 ![InitialBuild](/images/InitialBuildingScreen1.PNG)
 
-## NLU Panel
+## Panel NLU
 
 ![NLUPanel](/images/NLUPanel1.PNG)

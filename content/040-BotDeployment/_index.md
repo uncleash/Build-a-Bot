@@ -1,16 +1,16 @@
 ---
-title: "Implementación de Bots"
+title: "Bot Deployment"
 chapter: true
 weight: 40
 ---
 
 ![Header](/images/BotDeployment.jpg)
 
-## Objetivo
+## Objective
 
-En esta sección, agregaremos el flujo de bot integrado a una interacción entrante. Agregará propiedades de flujo de bot, para que su cliente pueda iniciar el bot y generar información basada en expresiones para su intención. Es importante que el bot comprenda las necesidades de los clientes y se personalice en función de las solicitudes. Esto elimina la redundancia o las ofertas genéricas del bot.
+In this section we'll add the built Bot Flow to an inbound interaction. You will add Bot Flow Properties, so you're customer can initiate the bot and generate information based on utterances for their intent. It is important that the bot understands the customers needs, and becomes personalized based on the requests. This cuts out redundancy or generic offerings from the bot. 
 
-Podrá probar su bot, su precisión de salida y cómo escalar a un agente en vivo cuando sea necesario. Es importante probar el alcance completo de las capacidades del bot y asegurarse de que esté actuando como se espera antes de publicarlo.
+You'll be able to test your bot, it's output accuracy, and how to escalate to a live agent when necessary. It is important to test the bot's full scope of capabilties and ensure it is acting as expected before publishing.
 
-![Header](/images/Genesys1.jpg)
+![Header](/images/Robot.jpg)
 

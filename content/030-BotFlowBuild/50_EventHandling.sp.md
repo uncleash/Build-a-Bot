@@ -1,15 +1,15 @@
 ---
-title: "Event Handling"
+title: "Manejo de eventos"
 chapter: true
 weight: 50
 ---
 
 ![Header](/images/EventHandling1.jpg)
 
-## Event Handling
+## Manejo de eventos - Event Handling
 
 ![EventHandling](/images/EventHandling.jpg)
 
-#### Disconnect
+#### Desconectar - Disconnect
 
 ![DisconnectImg](/images/Disconnect.jpg)
