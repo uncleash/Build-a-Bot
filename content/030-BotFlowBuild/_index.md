@@ -12,4 +12,4 @@ In this section, we'll use the NLU model we've created to build out a Genesys Bo
 
 We'll also build out Event Handling within the bot. It is important to know how to handle the unexpected, such as errors or recognition failures. We can built out events to manage this, along with agent escalation when necessary. 
 
-![Header](/images/AI.jpg)
+![Header](/images/Genesys2.jpg)

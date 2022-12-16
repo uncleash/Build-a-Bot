@@ -12,5 +12,5 @@ In this section we'll add the built Bot Flow to an inbound interaction. You will
 
 You'll be able to test your bot, it's output accuracy, and how to escalate to a live agent when necessary. It is important to test the bot's full scope of capabilties and ensure it is acting as expected before publishing.
 
-![Header](/images/Robot.jpg)
+![Header](/images/Genesys1.jpg)
 
