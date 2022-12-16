@@ -1,5 +1,5 @@
 ---
-title: "Confirmation Questions"
+title: "Preguntas de confirmación"
 chapter: true
 weight: 60
 ---

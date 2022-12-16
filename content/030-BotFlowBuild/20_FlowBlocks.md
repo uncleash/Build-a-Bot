@@ -1,17 +1,17 @@
 ---
-title: "Flow & Data Blocks"
+title: "Bloques de flujo y datos"
 chapter: true
 weight: 20
 ---
 
 ![Header](/images/FlowBlocks1.jpg)
 
-## Flow and Data Blocks
+## Bloques de flujo y datos 
 
-#### Flow Blocks
+#### Bloques de flujo - Flow Blocks
 
 ![FlowBlock](/images/FlowBlocks.jpg)
 
-#### Data Blocks
+#### Bloques de datos - Data Blocks
 
 ![DataBlock](/images/DataBlocks.jpg)

@@ -1,24 +1,24 @@
 ---
-title: "Conclusion"
+title: "Conclusión"
 chapter: true
 weight: 90
 ---
 
 ![Header](/images/Conclusion.jpg)
 
-## Finished!
+## Completado!
 
-Congratulations! You've reached the end of today's workshop. You now have an operational bot and are ready to take voice and chat interactions using your bot. We hope this was an informative journey, and that you are now confident in your interaction fielding abilities.  
+¡Felicidades! Ha llegado al final del taller de hoy. Ahora tiene un bot operativo y está listo para realizar interacciones de voz y chat con su bot. Esperamos que este haya sido un viaje informativo y que ahora tenga confianza en sus habilidades de interacción en el campo.
 
-### Next Steps
-If you'd like to continue your Genesys Cloud CX journey, please visit the following links to complete other workshops:
+### Siguientes pasos
+Si desea continuar su viaje de Genesys Cloud CX, visite los siguientes enlaces para completar otros talleres:
 
-* [Genesys and Google- Agent Assist & DialogFlow CX Workshop](https://workshop.genesys.com/workshops/DialogFlowCXandAgentAssist/) <br>
+* [Taller Genesys y Google- Agent Assist y DialogFlow CX](https://workshop.genesys.com/workshops/DialogFlowCXandAgentAssist/) <br>
 
-* Quality Management (to be added later) <br>
+* Gestión de la Calidad (para ser agregado más tarde) <br>
 
-* Introduction to Architect (to be added later) <br>
+* Introducción a Architect (para ser agregado más tarde) <br>
 
-Genesys is always striving for improvement. If you have any suggestions on how to improve this workshop, please fill out today's feedback form via this [TODO](TODO). We'd love to hear from you!
+Genesys siempre se esfuerza por mejorar. Si tiene alguna sugerencia sobre cómo mejorar este taller, complete el formulario de comentarios de hoy a través de este [TODO](TODO). ¡Nos encantaría saber de usted!
 
-If you have any technical questions about this workshop, please contact us at Workshops@genesys.com.
+Si tiene alguna pregunta técnica sobre este taller, contáctenos en Workshops@genesys.com.

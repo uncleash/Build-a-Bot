@@ -1,5 +1,5 @@
 ---
-title: "Learning Page"
+title: "Página de aprendizaje"
 chapter: true
 weight: 70
 ---
