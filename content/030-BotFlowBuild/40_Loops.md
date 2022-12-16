@@ -1,16 +1,16 @@
 ---
-title: "Loops"
+title: "Bucles"
 chapter: true
 weight: 40
 ---
 
 ![Header](/images/Loops1.jpg)
 
-## Loops
+## Bucles - Loops
 
 ![Loops](/images/Loops.jpg)
 
-#### "Anything Else?" Loops
+#### Bucles "¿Algo más?" - "Anything Else?" Loops
 
 ![AnythingElseLoops](/images/ElseLoop.jpg)
 

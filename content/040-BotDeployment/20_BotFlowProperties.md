@@ -1,12 +1,12 @@
 ---
-title: "Bot Flow Properties"
+title: "Propiedades de flujo de bot"
 chapter: true
 weight: 20
 ---
 
 ![Header](/images/FlowProperties.jpg)
 
-## Bot Flow Properties
+## Propiedades de flujo de bot - Bot Flow Properties
 
 ![Bot Properties](/images/BotProperties.jpg)
 

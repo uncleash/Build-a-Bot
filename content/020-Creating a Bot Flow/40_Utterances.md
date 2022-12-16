@@ -1,25 +1,25 @@
 ---
-title: "Utterances"
+title: "Expresiones"
 chapter: true
 weight: 40
 ---
 
 ![Header](/images/Utterances.jpg)
 
-Utterances are phrases that a user would use to describe what they want to do. The bot tries to understand and identify the user’s intent from these utterances. <br>
+Las expresiones (Utterances) son frases que un usuario usaría para describir lo que quiere hacer. El bot intenta comprender e identificar la intención del usuario a partir de estas declaraciones. <br>
 
-A user might say: I need to send a payment tomorrow. or I want to send a payment tomorrow. Both of these utterances convey the same intention: send a payment for tomorrow. Another utterance might be: Send $100 to account 12345 tomorrow. <br>
+Un usuario podría decir: Tengo que enviar un pago mañana. o quiero enviar un pago mañana. Ambas expresiones transmiten la misma intención: enviar un pago para mañana. Otro enunciado podría ser: Enviar $100 a la cuenta 12345 mañana. <br>
 
-When creating sample utterances, try to create variations and also with a wide range of semantics for each intent. It’s a good practice to create multiple variations of the same phrase. For example, create two utterances: "I want to open a savings account" and "How do I apply for savings accounts"
+Al crear expresiones de muestra, intente crear variaciones y también con una amplia gama de semánticas para cada intención. Es una buena práctica crear múltiples variaciones de la misma frase. Por ejemplo, cree dos enunciados: "Quiero abrir una cuenta de ahorros" y "¿Cómo solicito una cuenta de ahorros?"
+ 
 
 
-
-
-![Utterances1](/images/Utterances1.PNG)
 
 ![Utterances1](/images/Utterances1.PNG)
 
-## Apply the Changes
+![Utterances1](/images/Utterances1.PNG)
+
+## Aplicar los cambios
 
 
 ![ApplyChanges](/images/ApplyChange1.PNG)

@@ -1,15 +1,15 @@
 ---
-title: "Bot Flow Build"
+title: "Creación de flujo de Bot"
 chapter: true
 weight: 30
 ---
 
 ![Header](/images/BotFlowBuild.jpg)
 
-## Objective
+## Objetivo
 
-In this section, we'll use the NLU model we've created to build out a Genesys Bot Flow. A bot flow leverages many items, including Intents, Slots, Plot Properties, Communicate Sequences, Loops, and more. Let's discuss what each of those pieces are, how to build them, and when to deploy them. 
+En esta sección, usaremos el modelo NLU que hemos creado para construir un Flujo de bot de Genesys - Genesys Bot Flow. Un flujo de bot aprovecha muchos elementos, incluidos Intents (Intenciones), Slots (Ranuras), Plot Properties (Propiedades de trama), Communicate Sequences (Secuencias de comunicación), Loops (bucles) y más. Analicemos qué es cada una de esas piezas, cómo construirlas y cuándo desplegarlas.
 
-We'll also build out Event Handling within the bot. It is important to know how to handle the unexpected, such as errors or recognition failures. We can built out events to manage this, along with agent escalation when necessary. 
+También construiremos Gestión de eventos dentro del bot. Es importante saber manejar lo inesperado, como errores o fallas de reconocimiento. Podemos crear eventos para gestionar esto, junto con la escalada del agente cuando sea necesario.
 
 ![Header](/images/Genesys2.jpg)
