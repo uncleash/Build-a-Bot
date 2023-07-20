@@ -52,16 +52,16 @@ defaultContentLanguage = "en"
 [Languages]
 [Languages.en]
 contentDir = 'content/en-US'
-title = "Automation with CX as Code"
-description = "Learn how deploy a Genesys Cloud Architect flow and its dependent objects using Archy and CX as Code to manage Architect flows and dependent objects as plain text files that can be checked into source control."
+title = "Genesys Dialog Engine Build a Bot"
+description = "Learn how to Build a Bot using Genesys Dialog Engine!"
 weight = 1
 languageName = "English"
 languageCode = "en-US"
 
 [Languages.sp]
 contentDir = 'content/es-ES'
-title = "Automatización con CX como código"
-description = "Aprenda a implementar un flujo de Genesys Cloud Architect y sus objetos dependientes usando Archy y CX as Code para administrar los flujos de Architect y los objetos dependientes como archivos de texto sin formato que se pueden verificar en el control de código fuente."
+title = "Genesys Dialog Engine Cree un bot"
+description = "¡Aprenda a crear un bot con Genesys Dialog Engine!"
 weight = 2
 languageName = "Español"
 languageCode = "es-ES"
